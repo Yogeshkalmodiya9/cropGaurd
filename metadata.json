@@ -1,0 +1,6 @@
+{
+  "name": "CropGuard AI",
+  "description": "AI-powered crop disease identification, explainable symptom heatmaps, treatment guidance, progression tracking, and conversational crop assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
